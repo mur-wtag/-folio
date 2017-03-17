@@ -4,26 +4,30 @@ title: about
 permalink: /about/
 ---
 
-<img class="col one right" src="/img/prof_pic.jpg">
+<img class="col one right" src="/img/profile_pic.jpeg">
 
 <br/>
-Write your biography here. Tell the world about yourself. Link to your favorite <a href="http://reddit.com" target="blank">subreddit</a>. You can put a picture in, too. The code is already in, just name your picture "prof_pic.jpg" and put it in the img folder. 
+my name is muhammad mahabubur rhaman and nickname is rony.
 
-Link to your social media connections, too. This theme is set up to use <a href="http://fortawesome.github.io/Font-Awesome/" target="blank">Font Awesome icons</a>, like the ones below. Add your facebook, twitter, linkedin, or just disable all of them. 
+try to write some poerty using programming language. i <i class="fa fa-heart" aria-hidden="true"></i> ruby.
+have been working on some <a href="https://rubyonrails.org/">ruby on rails</a> projects. have some experiences to work in JS.
+<i class="fa fa-heart" aria-hidden="true"></i> to eat, try to take picture of unsung objects. <i class="fa fa-heart" aria-hidden="true"></i> to watch overthinking drama film.
 
-
+I try to live life today, not tomorrow. 
 <br/>
 <hr/>
 <br/>
 <span class="contacticon center">
-	<a href="mailto:you@example.com"><i class="fa fa-envelope-square"></i></a>
-	<a href="https://github.com" target="_blank"><i class="fa fa-github-square"></i></a>
-	<a href="https://www.linkedin.com" target="_blank"><i class="fa fa-linkedin-square"></i></a>
-	<a href="http://tumblr.com" target="_blank"><i class="fa fa-tumblr-square"></i></a>
-	<a href="https://twitter.com" target="_blank"><i class="fa fa-twitter-square"></i></a>
+	<a href="mailto:rony.cse36@gmail.com"><i class="fa fa-envelope-square"></i></a>
+	<a href="https://github.com/mur-wtag" target="_blank"><i class="fa fa-github-square"></i></a>
+	<a href="https://www.linkedin.com/in/rony36/" target="_blank"><i class="fa fa-linkedin-square"></i></a>
+	<a href="http://stackoverflow.com/users/1682038/rony36" target="_blank"><i class="fa fa-stack-overflow"></i></a>
+	<a href="http://stackoverflow.com/cv/rony36" target="_blank"><i class="fa fa-compass"></i></a>
+	<a href="https://www.flickr.com/photos/rony36/" target="_blank"><i class="fa fa-flickr"></i></a>
+	<a href="http://yourshot.nationalgeographic.com/profile/591608/" target="_blank"><i class="fa fa-camera"></i></a>
 </span>
 
 <div class="col three caption">
-	You can even add a little note about which of these is the best way to reach you.
+	also me could be found be over phone +880 1717 690796
 </div>
 
