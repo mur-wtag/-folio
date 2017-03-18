@@ -9,7 +9,7 @@ permalink: /about/
 <br/>
 my name is muhammad mahabubur rhaman and nickname is rony.
 
-try to write some poerty using programming language. i <i class="fa fa-heart" aria-hidden="true"></i> ruby.
+try to write some poetry using programming language. i <i class="fa fa-heart" aria-hidden="true"></i> ruby.
 have been working on some <a href="https://rubyonrails.org/">ruby on rails</a> projects. have some experiences to work in JS.
 <i class="fa fa-heart" aria-hidden="true"></i> to eat, try to take picture of unsung objects. <i class="fa fa-heart" aria-hidden="true"></i> to watch overthinking drama film.
 
@@ -28,6 +28,6 @@ I try to live life today, not tomorrow.
 </span>
 
 <div class="col three caption">
-	also me could be found be over phone +880 1717 690796
+	also me could be found over phone +880 1717 690796
 </div>
 
