@@ -4,7 +4,7 @@ email: rony.cse36@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   A simple, whitespace, helvetica based portfolio theme.
 baseurl:  # the subpath of your site, e.g. /blog/
-url:  www.rony36.com
+url:  #www.rony36.com
 twitter_username: rony08cse36
 github_username:  mur-wtag
 
