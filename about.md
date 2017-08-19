@@ -33,7 +33,7 @@ have been working on some <a href="https://rubyonrails.org/">ruby on rails</a> p
 
 4. **REST-in-Peace (Contributor)** — https://github.com/ninech/REST-in-Peace.
 **Keywords:** `ruby`.
-*Have tiny contribution as @mur-wtag (my github username)*
+*Have tiny contribution as [@mur-wtag](https://github.com/mur-wtag)*
 
 <span class="contacticon center">
 	<a href="mailto:rony.cse36@gmail.com"><i class="fa fa-envelope-square"></i></a>
