@@ -13,10 +13,28 @@ try to write some poetry using programming language. i <i class="fa fa-heart" ar
 have been working on some <a href="https://rubyonrails.org/">ruby on rails</a> projects. have some experiences to work in JS.
 <i class="fa fa-heart" aria-hidden="true"></i> to eat, try to take picture of unsung objects. <i class="fa fa-heart" aria-hidden="true"></i> to watch overthinking drama film.
 
-I try to live life today, not tomorrow. 
 <br/>
 <hr/>
 <br/>
+
+## OPEN SOURCE CONTRIBUTION
+
+1. **Bookyt (Contributor)** — https://github.com/huerlisi/bookyt.
+**Keywords:** `ruby`, `ruby-on-rails`, `authentication`, `cas`.
+*Have tiny contribution as @mur-wtag (my github username)*
+
+2. **React-analog-clock (Contributor)** — https://github.com/zackargyle/react-analog-clock.
+**Keywords:** `reactjs`, `javascript`.
+*Have tiny contribution as @mur-wtag (my github username)*
+
+3. **Grape-swagger (Contributor)** —  https://github.com/ruby-grape/grape-swagger.
+**Keywords:** `ruby`.
+*Have tiny contribution as @mur-wtag (my github username). Could find my contribution details here: https://github.com/ruby-grape/grape-swagger/blob/master/CHANGELOG.md#fixes-6*
+
+4. **REST-in-Peace (Contributor)** — https://github.com/ninech/REST-in-Peace.
+**Keywords:** `ruby`.
+*Have tiny contribution as @mur-wtag (my github username)*
+
 <span class="contacticon center">
 	<a href="mailto:rony.cse36@gmail.com"><i class="fa fa-envelope-square"></i></a>
 	<a href="https://github.com/mur-wtag" target="_blank"><i class="fa fa-github-square"></i></a>
