@@ -17,19 +17,19 @@ have been working on some <a href="https://rubyonrails.org/">ruby on rails</a> p
 <hr/>
 <br/>
 
-## OPEN SOURCE CONTRIBUTION
+**OPEN SOURCE CONTRIBUTION**
 
-1. **Bookyt (Contributor)** — https://github.com/huerlisi/bookyt.
+1. **Bookyt (Contributor)** — [https://github.com/huerlisi/bookyt](https://github.com/huerlisi/bookyt).
 **Keywords:** `ruby`, `ruby-on-rails`, `authentication`, `cas`.
-*Have tiny contribution as @mur-wtag (my github username)*
+*Have tiny contribution as [@mur-wtag](https://github.com/mur-wtag)*
 
-2. **React-analog-clock (Contributor)** — https://github.com/zackargyle/react-analog-clock.
+2. **React-analog-clock (Contributor)** — [https://github.com/zackargyle/react-analog-clock](https://github.com/zackargyle/react-analog-clock).
 **Keywords:** `reactjs`, `javascript`.
-*Have tiny contribution as @mur-wtag (my github username)*
+*Have tiny contribution as [@mur-wtag](https://github.com/mur-wtag)*
 
-3. **Grape-swagger (Contributor)** —  https://github.com/ruby-grape/grape-swagger.
+3. **Grape-swagger (Contributor)** —  [https://github.com/ruby-grape/grape-swagger](https://github.com/ruby-grape/grape-swagger).
 **Keywords:** `ruby`.
-*Have tiny contribution as @mur-wtag (my github username). Could find my contribution details here: https://github.com/ruby-grape/grape-swagger/blob/master/CHANGELOG.md#fixes-6*
+*Have tiny contribution as [@mur-wtag](https://github.com/mur-wtag). Could find my contribution details [here](https://github.com/ruby-grape/grape-swagger/blob/master/CHANGELOG.md#fixes-6)*
 
 4. **REST-in-Peace (Contributor)** — https://github.com/ninech/REST-in-Peace.
 **Keywords:** `ruby`.
