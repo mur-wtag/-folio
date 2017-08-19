@@ -2,7 +2,7 @@
 layout: post
 title:  Time, Datetime, Weekday query to find records
 date:   2017-03-17 16:40:16
-description: march & april, looking forward to summer
+description: Time, Datetime, Weekday query to find records [ruby][ruby-on-rails]
 ---
 
 # Time, Datetime, Weekday query to find records [ruby][ruby-on-rails]
@@ -20,4 +20,3 @@ Say, you want to find record only which are created on Monday, so write query li
 ```ruby
 Task.where([":wday = ANY (days_of_the_week)", { wday: Date.current.strftime('%A') }])
 ```
-
