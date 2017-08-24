@@ -2,7 +2,7 @@
 layout: post
 title:  Ruby on Rails application with Reactjs
 date:   2017-08-24 14:40:16
-description: Time, Datetime, Weekday query to find records [ruby][ruby-on-rails]
+description: Ruby on Rails with Reactjs [ruby][ruby-on-rails][reactjs][webpacker]
 ---
 
 Let's create a rails application along with ReactJS and other node modules.
@@ -19,6 +19,7 @@ brew install node
 
 Yes, `npm` (node package manager) comes with node by default. Alternatively, we can use [`yarn`](https://yarnpkg.com/en/docs/install#mac-tab) (my preferance also `rails` prefer it :p).
 > Ah, it's neecessary to use version manager for `node`. Yes, there is node version manager `nvm`. Follow [these steps](https://github.com/creationix/nvm#installation) to install it.
+
 
 
 # Let's create a Rails application
