@@ -8,6 +8,7 @@ description: Time, Datetime, Weekday query to find records [ruby][ruby-on-rails]
 Let's create a rails application along with ReactJS and other node modules.
 
 ## Install Node.js and NPM (on MAC)
+
 *I assume MAC already have `Xcode` and `Homebrew` installed.*
 
 In terminal:
@@ -20,6 +21,7 @@ Yes, `npm` (node package manager) comes with node by default. Alternatively, we 
 > Ah, it's neecessary to use version manager for `node`. Yes, there is node version manager `nvm`. Follow [these steps](https://github.com/creationix/nvm#installation) to install it.
 
 ## Let's create a Rails application
+
 Okay, on rails developent it's so important to pre-process JavaScript and bundle all modules, so we definately need a pre-complier which will continuously run and process asset. And for that I prefer [`webpack`](https://github.com/webpack/webpack). **Good News is**, [`rails`](https://github.com/rails) officially included `webpack` inside rails (from `5.1`) with name [`webpacker`](https://github.com/rails/webpacker)!
 
 Now, create a rails application including `webpack` with [react](https://facebook.github.io/react/) (only for rails `5.1+`):
