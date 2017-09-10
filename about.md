@@ -43,6 +43,7 @@ have been working on some <a href="https://rubyonrails.org/">ruby on rails</a> p
 	<a href="http://stackoverflow.com/cv/rony36" target="_blank"><i class="fa fa-compass"></i></a>
 	<a href="https://www.flickr.com/photos/rony36/" target="_blank"><i class="fa fa-flickr"></i></a>
 	<a href="http://yourshot.nationalgeographic.com/profile/591608/" target="_blank"><i class="fa fa-camera"></i></a>
+	<a href="/Muhammad.Mahabubur.Rhaman.resume.pdf" target="_blank"><i class="fa fa-address-card" ariahidden="true"></i> </a>
 </span>
 
 <div class="col three caption">
