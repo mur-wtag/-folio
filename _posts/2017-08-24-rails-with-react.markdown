@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Ruby on Rails application with Reactjs
-comments: true
+comments: false
 date:   2017-08-24 14:40:16
 description: Ruby on Rails with Reactjs [ruby][ruby-on-rails][reactjs][webpacker]
 ---
