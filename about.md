@@ -48,6 +48,6 @@ have been working on some <a href="https://rubyonrails.org/">ruby on rails</a> p
 </span>
 
 <div class="col three caption">
-	also me could be found over phone +880 1717 690796
+  also you can reach me on +880 1717 690796
 </div>
 
