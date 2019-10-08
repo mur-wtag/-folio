@@ -10,7 +10,7 @@ permalink: /about/
 my name is muhammad mahabubur rhaman and nickname is rony.
 
 try to write some poetry using programming language. i <i class="fa fa-heart" aria-hidden="true"></i> ruby.
-have been working on some <a href="https://rubyonrails.org/">ruby on rails</a> projects. have some experiences to work in JS.
+have been working on some <a href="https://rubyonrails.org/">ruby on rails</a> projects since 2012. have some experiences to work in JS.
 <i class="fa fa-heart" aria-hidden="true"></i> to eat, try to take picture of unsung objects. <i class="fa fa-heart" aria-hidden="true"></i> to watch overthinking drama film.
 
 <br/>
@@ -29,7 +29,7 @@ have been working on some <a href="https://rubyonrails.org/">ruby on rails</a> p
 
 3. **Grape-swagger (Contributor)** —  [https://github.com/ruby-grape/grape-swagger](https://github.com/ruby-grape/grape-swagger).
 **Keywords:** `ruby`.
-*Have tiny contribution as [@mur-wtag](https://github.com/mur-wtag). Could find my contribution details [here](https://github.com/ruby-grape/grape-swagger/blob/master/CHANGELOG.md#fixes-6)*
+*Have tiny contribution as [@mur-wtag](https://github.com/mur-wtag). Could find my contribution details [here](https://github.com/ruby-grape/grape-swagger/blob/master/CHANGELOG.md#0251-november-29-2016)*
 
 4. **REST-in-Peace (Contributor)** — https://github.com/ninech/REST-in-Peace.
 **Keywords:** `ruby`.
